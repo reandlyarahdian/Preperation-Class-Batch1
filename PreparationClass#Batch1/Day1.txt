@@ -2,8 +2,4 @@ Nama : Renaldy
 Sedang Belajar : Js dan Kotlin
 Tempat Lahir : Bandung
 Domisili : Jogja
-<<<<<<< Updated upstream
-asal :
-=======
-Asal :
->>>>>>> Stashed changes
+Asal : Jawa Barat
