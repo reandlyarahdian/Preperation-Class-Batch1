@@ -2,9 +2,4 @@ Nama : Renaldy
 Sedang Belajar : Js dan Kotlin
 Tempat Lahir : Bandung
 Domisili : Jogja
-<<<<<<< HEAD
 Asal : Jawa Barat
-=======
-Asal : Bandung
-
->>>>>>> bee75a22d210e210d6595a0a0d0107e5b1c96f8b
