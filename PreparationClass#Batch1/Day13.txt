@@ -9,5 +9,3 @@ YouTrack: lebih banyak text dan tidak mudah dalam ticketing
 Pilihan saya:
 Jira, karena memiliki integrasi dengan banyak platform yang dibutuhkan
 oleh para programmer.
-
-test
