@@ -1,0 +1,11 @@
+Ticketing pada Trello, Jira dan YouTrack
+
+Trello  : lebih simpel dan user-friendly.
+"https://static.thinkmobiles.com/uploads/2016/11/pros3.jpg"
+Jira    : user-friendly, memiliki integrasi dengan github, IDE, dll
+"https://static.thinkmobiles.com/uploads/2016/11/pros4.jpg"
+YouTrack: lebih banyak text dan tidak mudah dalam ticketing
+"https://static.thinkmobiles.com/uploads/2016/11/pros-cons.jpg"
+Pilihan saya:
+Jira, karena memiliki integrasi dengan banyak platform yang dibutuhkan
+oleh para programmer.
