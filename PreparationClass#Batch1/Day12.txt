@@ -1,0 +1,27 @@
+Vs Code Shortcut  :
+
+Ctrl+X              Cut   
+Ctrl+C              Copy
+Alt+ ↓ / ↑          memindahkan baris  
+Ctrl+Shift+K        Delete 
+Ctrl+Enter / 
+Ctrl+Shift+Enter 
+                    Insert
+Ctrl+Shift+\        loncat ke kutung kotak 
+Ctrl+] / Ctrl+[     menghapus/memberi tab pada baris 
+Home / End          ke awal/akhir baris 
+Ctrl+ Home / End    ke awal/akhir file 
+Ctrl+ ↑ / ↓         Scroll line up/down 
+Alt+ PgUp / PgDn    Scroll page up/down 
+Ctrl+K Ctrl+0 / 
+Ctrl+K Ctrl+J 
+                    Fold/Unfold all regions 
+Ctrl+K Ctrl+C       menambah komen 
+Ctrl+K Ctrl+U       mengapus comment 
+Ctrl+/ Toggle       line comment 
+Ctrl+Shift+A        block comment 
+Alt+Z               word wrap 
+Ctrl+Z              undo
+Ctrl+Shift+Z        redo
+
+Selengkapnya terdapat di "https://code.visualstudio.com/shortcuts/keyboard-shortcuts-linux.pdf"
